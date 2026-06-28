@@ -8,3 +8,5 @@
 
 **hobby** - gaming
 
+**course** - python
+
